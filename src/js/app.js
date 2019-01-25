@@ -1,7 +1,7 @@
 // Global Vars
 
-const contractId = '0xe7bed272ee374e8116049d0a49737bdda86325b6';
-const marketAccount = '0xd386793f1db5f21609571c0164841e5ea2d33ad8';
+const contractId = '0x66639EdD7AEdbfc6228Ea39a569D8B95b9911124';
+const marketAccount = '0xd338ed4f025f60ca35d1cab202e8f5d28443df8a';
 
 // replace with IPFS hashes
 
